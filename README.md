@@ -4,7 +4,7 @@ This is a simple app to search current weather conditions around the world.
 
 **Installation:**
 
-This app is built with React using create-react-app.
+This app is built with React using `create-react-app`.
 
 First pull the files from the repo into a folder on your local machine. Some aspects of the program utilise a library called react-icons. To install react-icons, navigate to the app's folder in your terminal and run `npm install react-icons`.
 
