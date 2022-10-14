@@ -43,7 +43,19 @@ function App() {
                 placeholder="Enter city, then press Enter to search:"
               />
             </div>
-
+            <p>
+              You may need to include a country code for cities with duplicate
+              names, e.g. there is both a Melbourne, AU and a Melbourne, US. A
+              list of valid country codes can be found{" "}
+              <a
+                href="https://www.iso.org/obp/ui/#search/code"
+                target="_blank"
+                rel="noreferrer"
+              >
+                here
+              </a>
+              .
+            </p>
             <div className="section section__temperature">
               <div className="icon">
                 <h3>{`${weather.name}, ${weather.country}`}</h3>

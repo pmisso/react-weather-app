@@ -73,19 +73,8 @@
   outline: none;
 }
 
-.section__inputs > button {
-  padding: 10px 50px;
-  border: none;
-  border-radius: 0.4rem;
-  font-size: 20px;
-  font-weight: 500;
-  background-color: white;
-  width: 10em;
-}
-
-.section__inputs > button:hover {
-  cursor: pointer;
-  background-color: lightblue;
+p {
+  font-size: 1.3vw;
 }
 
 .icon {
