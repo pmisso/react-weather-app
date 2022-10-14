@@ -16,6 +16,8 @@ Once the app is compiled it should open in a browser window.
 
 Using the app is fairly straightforward. There is a search bar at the top of the page; enter the name of the city whose weather you want to view, and press enter to search. The app will return weather results for just about any city in the world (the API can access data for over 200,000 cities). The app utilises an API from [Open Weather Map](https://openweathermap.org/) to retrieve and display data for weather conditions worldwide.
 
+_Note_: There are instances where cities in different countries will share the same name, for example there is a Melbourne in Australia and in the USA. In these situations you can add a country code to your search term to ensure you get results for the correct city. Your search will need to be formatted as "City", "Country Code". For example, `Melbourne, AU` or `Melbourne, US`. A list of valid country codes can be found [here](https://www.iso.org/obp/ui/#search/code).
+
 The weather conditions tracked by the app are:
 
 - Temperature (in Celsius) - Current, minimum, maximum, and "feels like" temperature.
