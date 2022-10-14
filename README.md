@@ -2,7 +2,7 @@
 
 This is a simple app to search current weather conditions around the world.
 
-**Deployment:**
+**Installation:**
 
 This app is built with React using create-react-app.
 
