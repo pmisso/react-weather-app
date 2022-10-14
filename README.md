@@ -17,10 +17,11 @@ Once the app is compiled it should open in a browser window.
 Using the app is fairly straightforward. There is a search bar at the top of the page; enter the name of the city whose weather you want to view, and press enter to search. The app will return weather results for just about any city in the world (the API can access data for over 200,000 cities). The app utilises an API from [Open Weather Map](https://openweathermap.org/) to retrieve and display data for weather conditions worldwide.
 
 The weather conditions tracked by the app are:
--Temperature (in Celsius) - Current, minimum, maximum, and "feels like" temperature.
--Wind speed
--Pressure
--Humidity
+
+- Temperature (in Celsius) - Current, minimum, maximum, and "feels like" temperature.
+- Wind speed
+- Pressure
+- Humidity
 
 **Planned Updates**
 
