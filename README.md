@@ -1,8 +1,8 @@
 **REACT WEATHER APP**
 
----
-
 This is a simple app to search current weather conditions around the world.
+
+---
 
 **Installation:**
 
