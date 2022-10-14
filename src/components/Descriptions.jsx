@@ -1,3 +1,5 @@
+//this file is responsible for generating and organising the weather data into objects, displayed as cards on the page
+
 import React from "react";
 import "./descriptions.css";
 import {
