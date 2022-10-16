@@ -44,9 +44,11 @@ function App() {
               />
             </div>
             <p>
-              You may need to include a country code for cities with duplicate
-              names, e.g. there is both a Melbourne, AU and a Melbourne, US. A
-              list of valid country codes can be found{" "}
+              This is a simple weather app. You can search for current weather
+              conditions for cities all around the world. You may need to
+              include a country code for cities with duplicate names, e.g. there
+              is both a Melbourne, AU and a Melbourne, US. A list of valid
+              country codes can be found{" "}
               <a
                 href="https://www.iso.org/obp/ui/#search/code"
                 target="_blank"
