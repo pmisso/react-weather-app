@@ -35,4 +35,4 @@ The weather conditions tracked by the app are:
 
 - Incorporate Typescript into the next build
 - Improve the responsive scaling of text content
-- Find a method to exclude the API from the repo without forcing users to sign up for their own API and edit the code themselves before using the app.
+- To improve security, find a method to exclude the API from the repo without forcing users to sign up for their own API and edit the code themselves before using the app.
